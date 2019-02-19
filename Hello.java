@@ -6,5 +6,6 @@ public class Hello {
   private static void A() {
   }
   private static void B() {
+      System.out.println("User2 modified B.");
   }
 }
